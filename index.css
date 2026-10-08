@@ -1,0 +1,72 @@
+.navbar
+	{
+	height:12%;	
+	width:101.6%;	
+	background-color:#363840;
+	margin-left:-1%;
+	color:white;
+	margin-top:-1%;
+	}
+	
+.header
+	{
+	float:left;
+	font-size:25px;
+	margin-left:33%;
+	margin-top:25;
+	}	
+	
+.big
+	{
+	float:left;
+	height:60%;
+	width:95%;
+	margin-top:5%;
+	margin-left:2%;
+	border-radius:12px;
+	}	
+	
+.ellora
+	{
+	float:left;
+	height:100%;
+	width:30%;
+	border-radius:12px;
+	}	
+	
+.information
+	{
+	float:left;
+	height:100%;
+	width:65%;
+	margin-left:2%;
+	border-radius:12px;
+	border:1px solid black;
+	}	
+	
+.hp
+	{
+	float:left;
+	font-size:20px;
+	padding-left:2%;
+	margin-top:2%;
+	margin-right:10%;
+	}	
+	
+.ajanta
+	{
+	float:left;
+	height:100%;
+	width:30%;
+	border-radius:12px;
+	margin-left:2%;
+	}	
+
+.informations
+	{
+	float:left;
+	height:100%;
+	width:65%;
+	border-radius:12px;
+	border:1px solid black;
+	}
