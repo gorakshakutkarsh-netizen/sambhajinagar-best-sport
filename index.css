@@ -2,9 +2,8 @@
 	{
 	height:12%;	
 	width:101.6%;	
-	background-color:#363840;
+	background-color:#101820;
 	margin-left:-1%;
-	color:white;
 	margin-top:-1%;
 	}
 	
@@ -12,9 +11,30 @@
 	{
 	float:left;
 	font-size:25px;
-	margin-left:33%;
+	margin-left:3%;
 	margin-top:25;
+	color:white;
 	}	
+	
+
+.times
+	{
+	float:left;
+	margin-left:10%;
+	font-size:18px;
+	margin-top:2%;
+	color:white;
+	}
+	
+.timess
+	{
+	float:left;
+	margin-left:2%;
+	font-size:18px;
+	margin-top:2%;
+	color:white;
+	}
+		
 	
 .big
 	{
@@ -48,9 +68,10 @@
 	{
 	float:left;
 	font-size:20px;
-	padding-left:2%;
+	padding:5px 40px 90px 22px ;
 	margin-top:2%;
 	margin-right:10%;
+	color:#101820;
 	}	
 	
 .ajanta
